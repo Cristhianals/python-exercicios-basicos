@@ -9,7 +9,7 @@ aumento = 5
 print(salario +(salario * aumento / 100))
 
 #execisers 2.3
-print("my name is cristhian")
+print("my name is cris")
 
 #execiser 2.4
 a = 3
