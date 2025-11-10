@@ -1,8 +1,7 @@
 # 📚 Exercícios básicos de Python
 
-Este repositório reúne uma coleção de exercícios práticos em Python, focados em **estruturas de repetição (`while`)**, **condicionais**, **operadores aritméticos** e **cálculos financeiros com juros compostos**.  
-
-Ele é ideal para iniciantes e estudantes que desejam fortalecer a lógica de programação, a manipulação de loops e a aplicação de conceitos matemáticos em Python.
+Este repositório reúne meus primeiros exercícios em Python, com foco na prática de **estruturas de repetição (`while`)**, **condicionais**, **operadores aritméticos** e **cálculos financeiros com juros compostos**.  
+O objetivo é consolidar os conceitos fundamentais da linguagem por meio de exemplos práticos.
 
 ---
 
@@ -11,7 +10,7 @@ Ele é ideal para iniciantes e estudantes que desejam fortalecer a lógica de pr
 Neste repositório, você encontrará exercícios e exemplos práticos relacionados a:
 
 - Variáveis do tipo lógico (`True`, `False`)
-- Operadores lógicos (`not`, `and`, `or`)
+- Operadores lógicos (`not`, ``and`, `or`)
 - Entrada e saída de dados (`input()` e `print()`)
 - Condicionais (`if`, `elif`, `else`)
 - Laços de repetição (`for` e `while`)
@@ -41,8 +40,10 @@ Ao trabalhar com os exercícios deste repositório, você irá:
   - Um arquivo `.md` com o enunciado e explicações do exercício  
 - **Os arquivos possuem o mesmo nome**, por exemplo:  
 
+```text
 exercicio6.py
 exercicio6.md
+```
 
 ---
 
@@ -57,10 +58,8 @@ exercicios-python/
 │  ├─ exercicio2.py
 │  ├─ exercicio2.md
 ├─ README.md              # Este arquivo
-
+```
 Cada pasta corresponde a um exercício específico. O arquivo .py contém a implementação, e o .md explica o enunciado, exemplos e dicas.
-
----
 
 ## 📌 Requisitos 
 - Python 3.x 
@@ -72,14 +71,18 @@ Cada pasta corresponde a um exercício específico. O arquivo .py contém a impl
 ---
 
 ## ▶️ Como executar 
+
 1. Certifique-se de ter o **Python 3** instalado. 
 2. Clone o repositório:
-bash
-   git clone https://github.com/Cristhianals/python-exercicios-basicos
+```bash
+git clone https://github.com/Cristhianals/python-exercicios-basicos
+```
 3. Entre na pasta do exercício desejado:
-bash
-    cd exercicio
+```bash
+cd exercicio
+```
 4. Execute o arquivo .py correspondente:
-bash
-   python exercicio.py
-5.Siga as instruções interativas que aparecerem no terminal
+```bash
+python exercicio.py
+```
+5. Siga as instruções interativas que aparecerem no terminal
