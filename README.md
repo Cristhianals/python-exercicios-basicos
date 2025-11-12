@@ -37,12 +37,11 @@ Ao trabalhar com os exercícios deste repositório, você irá:
 - A maioria dos scripts são **interativos**, solicitando entradas do usuário via `input()`.
 - Cada exercício possui **dois arquivos**:
   - Um arquivo `.py` com o código-fonte
-  - Um arquivo `.md` com o enunciado e explicações do exercício  
-- **Os arquivos possuem o mesmo nome**, por exemplo:  
+  - Um arquivo `.md` com o enunciado e explicações do exercício    
 
 ```text
 exercicio6.py
-exercicio6.md
+README.md
 ```
 
 ---
@@ -53,10 +52,10 @@ exercicio6.md
 exercicios-python/
 ├─ exercicio1/
 │  ├─ exercicio1.py       # Código do exercício
-│  ├─ exercicio1.md       # Enunciado e explicações do exercício
+│  ├─ README.md       # Enunciado e explicações do exercício
 ├─ exercicio2/
 │  ├─ exercicio2.py
-│  ├─ exercicio2.md
+│  ├─ README.md
 ├─ README.md              # Este arquivo
 ```
 Cada pasta corresponde a um exercício específico. O arquivo .py contém a implementação, e o .md explica o enunciado, exemplos e dicas.
